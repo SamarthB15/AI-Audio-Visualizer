@@ -196,11 +196,11 @@ export default function HomePage() {
             {/* Title */}
             <div className="flex flex-col md:flex-row items-center justify-center gap-4 mb-6">
               <h1 className="text-5xl md:text-7xl font-black tracking-tighter text-transparent bg-clip-text bg-gradient-to-b from-white to-white/60 drop-shadow-sm">
-                AI
+                SYNAPTIC
               </h1>
               <AudioBars />
               <h1 className="text-5xl md:text-7xl font-black tracking-tighter text-transparent bg-clip-text bg-gradient-to-r from-indigo-400 via-purple-400 to-pink-400">
-                AUDIO VISUALIZER
+                SOUND
               </h1>
             </div>
 
